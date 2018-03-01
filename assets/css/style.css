@@ -1,0 +1,11 @@
+ button,
+    div,
+    form,
+    input {
+      margin: 10px;
+    }
+
+    body {
+  background-color: #008080;
+  color: #F2F2F2;
+}
